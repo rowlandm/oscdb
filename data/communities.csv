@@ -66,3 +66,4 @@ name,description,website,region,category,country,city_state,member_count,status,
 "Cloud Native Stockholm","Stockholm Cloud Native Community Group","https://community.cncf.io/cloud-native-stockholm/","Northern Europe","Cloud Native","Sweden","Stockholm","797","Active","CNCF Chapter","In-Person"
 "PyDelhi","Python Delhi User Group","https://pydelhi.org/","Southern Asia","Programming Language","India","New Delhi and NCR metropolitan area","2300","Active","User Group","hybrid"
 "SciPy India","Scientific computing community in India","https://scipy-india.github.io/","Southern Asia","Scientific Computing","India","India","350","Active","Community","hybrid"
+"RSE Asia","Research Software Engineering community in Asia","https://rse-asia.github.io/RSE_Asia/","Asia","Scientific Computing","Asia","Asia","85","Active","Community","Online"
